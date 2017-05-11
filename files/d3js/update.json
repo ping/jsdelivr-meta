@@ -1,0 +1,9 @@
+{
+  "packageManager": "npm",
+  "name": "d3",
+  "repo": "d3/d3",
+  "files": {
+    "basePath": "build/",
+    "include": ["d3.js", "d3.min.js"]
+  }
+}

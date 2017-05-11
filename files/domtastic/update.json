@@ -1,0 +1,8 @@
+{
+  "packageManager": "github",
+  "name": "domtastic",
+  "repo": "webpro/DOMtastic",
+  "files": {
+    "include": ["dist/domtastic.*"]
+  }
+}
